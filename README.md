@@ -30,9 +30,6 @@
     <a href="https://t.me/Evgeniy8986" style="margin: 0 8px;">
         <img width="40px" height="40px" src="./icons/telegram.png" />
     </a>
-    <a href="https://instagram.com/" style="margin: 0 8px;">
-        <img width="40px" height="40px" src="./icons/instagram.png" />
-    </a>
     <a href="mailto:kureda96@gmail.com" style="margin: 0 8px;">
         <img width="40px" height="40px" src="./icons/gmail.png" />
     </a>
